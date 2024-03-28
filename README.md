@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/ff/6c/0d/ff6c0d04cd2dcf4ca12c11f0ff4cc913.png)
+![MasterHead](https://i.pinimg.com/originals/ff/6c/0d/ff6c0d04cd2dcf4ca12c11f0ff4cc913.png)
+![](https://komarev.com/ghpvc/?username=leylalptekin&color=blue)
 <h1 align="center">Hi 👋, I'm Leyla ALPTEKİN</h1>
 <h3 align="center">A passionate data scientist and software engineer from Turkiye</h3>
 
